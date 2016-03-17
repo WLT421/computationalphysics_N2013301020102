@@ -7,10 +7,10 @@
 
 
 
+##第一次作业
+### 这是一个二级标题
 
-## 这是一个二级标题
-
-*阿三间*
-**撒u算的话**
-[dsajd](www.cctv.com)
-![adji](http://pics.sc.chinaz.com/Files/pic/faces/2659/111.jpg)
+*这是加粗*
+**这是斜体**
+[这是一个网站链接](www.cctv.com)
+![这是一个图片链接](http://pics.sc.chinaz.com/Files/pic/faces/2659/111.jpg)
