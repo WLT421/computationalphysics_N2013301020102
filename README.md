@@ -1,6 +1,7 @@
 # computationalphysics_N2013301020102
 ##介绍一下我自己：
-Name:汪凌涛   Student Number:2013301020102
+Name:汪凌涛   
+Student Number:2013301020102
 
 ##第三次作业
 
