@@ -3,6 +3,10 @@
 Name:汪凌涛   
 Student Number:2013301020102
 
+##第四次作业
+
+[第四次作业链接 chapter1](https://github.com/WLT421/computationalphysics_N2013301020102/tree/master/Chapter1)
+
 ##第三次作业
 
 可以任意顺序输出“W”，“L”，“T”三个字母  
