@@ -56,9 +56,13 @@ def every_game(player_money,computer_money):
             time.sleep(1)
             the_open(player_dice,computer_dice)
             if player_dice==1 and computer_dice==6:
-                print '恭喜反杀！玩家胜！玩家赢得筹码{0}'.format(computer_bets)
+                print '恭喜反杀！玩家胜！玩家赢得筹码{0}'.format(computer_money)
+                player_money += computer_money
+                computer_money -= computer_money
             elif player_dice==6 and computer_dice==1:
-                print '对手胜！玩家输掉筹码{0}'.format(player_bets)
+                print '对手胜！玩家输掉筹码{0}'.format(player_money)
+                player_money -= player_money
+                computer_money += player_money
             elif player_dice > computer_dice:
                 print '玩家胜！玩家赢得筹码{0}'.format(computer_bets)
                 player_money += computer_bets
@@ -73,6 +77,7 @@ def every_game(player_money,computer_money):
             print '对手·放弃下注！玩家收回自己的筹码！'
             time.sleep(1)
             the_open(player_dice,computer_dice)
+        
     else:
         print '玩家放弃下注，本局放弃！'
         time.sleep(1)
