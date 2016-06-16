@@ -18,6 +18,12 @@ def the_open(player_dice,computer_dice):
 def every_game(player_money,computer_money):
     print 'Get Ready~~~'
     time.sleep(1)
+    print '3!'
+    time.sleep(1)
+    print '2!'
+    time.sleep(1)
+    print '1!'
+    time.sleep(1)
     print 'Go!'
     time.sleep(2)
     print "双方筹码："
