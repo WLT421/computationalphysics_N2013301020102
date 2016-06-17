@@ -4,7 +4,6 @@ reload(sys)
 sys.setdefaultencoding('gb18030')
 
 
-
 class Harmonic(object):
     def __init__(self,_t, _omega, _theta, alpha= 3,k=1,_dt=0.5):
         self.t=[_t]
