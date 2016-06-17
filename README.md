@@ -20,6 +20,8 @@ Student Number:2013301020102
 
 其中x和y分别为水平和垂直坐标，g为重力加速度。
 
+[代码](https://github.com/WLT421/computationalphysics_N2013301020102/blob/master/homework6.py)
+
 ##第五次作业
 
 完成第一章的任意一道题
