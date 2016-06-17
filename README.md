@@ -13,7 +13,7 @@ Student Number:2013301020102
 
 当初始人口数比较小时,选择参数a=10,b=3.N(O)=10.t=3 分别用欧拉法和方程精确解算得 
 
-[第五次作业链接]（https://github.com/WLT421/computationalphysics_N2013301020102/blob/master/homework5.py)
+链接:（https://github.com/WLT421/computationalphysics_N2013301020102/blob/master/homework5.py)
 
 ##第四次作业
 
