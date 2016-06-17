@@ -30,4 +30,4 @@ xlabel('time(s)')
 ylabel('$\\theta$(rad)')
 title('$\\theta-t$')
 legend(loc="upper right")
-show()
+show(）
