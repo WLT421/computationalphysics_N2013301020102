@@ -2,6 +2,11 @@
 ##介绍一下我自己：
 Name:汪凌涛   
 Student Number:2013301020102
+##第八次作业
+
+本次作业为课本第3.4题
+
+感谢张爽同学提供的程序
 
 ##第五次作业
 
@@ -13,7 +18,7 @@ Student Number:2013301020102
 
 当初始人口数比较小时,选择参数a=10,b=3.N(O)=10.t=3 分别用欧拉法和方程精确解算得 
 
-链接:（https://github.com/WLT421/computationalphysics_N2013301020102/blob/master/homework5.py)
+[ homework5 ](https://github.com/WLT421/computationalphysics_N2013301020102/blob/master/homework5.py)
 
 ##第四次作业
 
@@ -23,7 +28,6 @@ Student Number:2013301020102
 
 可以任意顺序输出“W”，“L”，“T”三个字母  
 文件上传到“3.py”
-
 
 
 ##第一次作业
